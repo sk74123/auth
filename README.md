@@ -1,1 +1,1 @@
-# auth
+# Auth Service built using Express.js
