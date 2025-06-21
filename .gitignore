@@ -1,0 +1,14 @@
+# Node.js dependencies
+node_modules/
+.DS_Store # macOS specific
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env # Environment variables, often sensitive
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+/coverage # Test coverage reports
+/build # Build output directory (if you have one, e.g., for frontend builds)
+/dist # Another common build output directory
